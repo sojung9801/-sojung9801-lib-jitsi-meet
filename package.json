@@ -1,5 +1,5 @@
 {
-  "name": "@sojung9801/lib-jitsi-meet",
+  "name": "lib-jitsi-meet",
   "version": "0.0.0",
   "description": "JS library for accessing Jitsi server side deployments",
   "repository": {
